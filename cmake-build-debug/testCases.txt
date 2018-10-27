@@ -1,0 +1,18 @@
+add Hey_Jude The_Beatles 12
+add Toxic Britney_Spears 13
+add Waterloo ABBA 20
+add Dancing_Queen ABBA 5
+add Stonemilker Bjork 10
+add Call_Me_Maybe Carly_Rae_Jepson 14
+add Call_Me_Maybe Carly_Rae_Jepson 15
+add Shallow Lady_Gaga 50
+add Hair,_Body,_Face Ally 10
+add Why_Did_You_Do_That Ally 20
+add My_Neck_My_Back Khia 40
+add Chandelier Sia 50
+sort
+print
+shuffle
+print
+exit
+
