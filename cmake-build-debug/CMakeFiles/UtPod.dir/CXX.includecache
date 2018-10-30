@@ -24,15 +24,3 @@ iostream
 Song.h
 /Users/michaelsullivan1/CLionProjects/UtPod/Song.h
 
-/Users/michaelsullivan1/CLionProjects/UtPod/main.cpp
-iostream
--
-string
--
-UtPod.h
-/Users/michaelsullivan1/CLionProjects/UtPod/UtPod.h
-fstream
--
-string.h
--
-

@@ -119,6 +119,7 @@ void UtPod::clearMemory(){
         p = p->next;
         delete tempNode;
     }
+    songs = nullptr;
 }
 
 

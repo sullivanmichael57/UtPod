@@ -39,6 +39,9 @@ int main() {
         }else if (line == "exit"){
             cout << "Finished Processing Instructions" << endl;
             break;
+        }else if (line == "clear"){
+            cout << "Clearing the Memory" << endl;
+            pod.clearMemory();
         }
     }
 

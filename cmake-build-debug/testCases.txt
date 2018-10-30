@@ -14,5 +14,22 @@ sort
 print
 shuffle
 print
+add Party_In_The_USA Miley_Cyrus 21
+print
+sort
+clear
+print
+add Shallow Lady_Gaga 50
+add Hair,_Body,_Face Ally 10
+add Why_Did_You_Do_That Ally 20
+add My_Neck_My_Back Khia 40
+add Chandelier Sia 50
+print
+sort
+print
+shuffle
+print
+clear
+print
 exit
 
